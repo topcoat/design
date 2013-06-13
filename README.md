@@ -1,8 +1,8 @@
 Topcoat design assets
 ======================
 
-[Topcoat Desktop
+![Topcoat Desktop
 Kit](https://github.com/topcoat/design/blob/master/TopCoat_DesktopKit.png)
 
-[Topcoat Mobile
+![Topcoat Mobile
 Kit](https://github.com/topcoat/design/blob/master/TopCoat_MobileKit.png)
